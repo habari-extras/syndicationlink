@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>SyndicationLink</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<author url="http://GrowingLiberty.com">Growing Liberty LLC</author>
+	<version>1.0</version>
+	<url>http://growingliberty.com/projects/habari/SyndicationLink</url>
+	<description><![CDATA[Adds a link to syndication content to address syndication hijacking.]]></description>
+	<copyright>2012</copyright>
+</pluggable>  
